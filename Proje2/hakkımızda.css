@@ -1,0 +1,43 @@
+.muzikdukkani {
+    color: red;
+    font-size: 30px;
+    font-weight: bold;
+    /* Kalın Yazı için kullandık. */
+
+    text-align: center;
+}
+
+.ozellikler {
+    text-align: center;
+    
+}
+
+.hakkimizda{
+    
+    color: purple;
+    text-align: center;
+    font-size: 20px;
+    font-weight: bold;
+
+}
+
+.metin1{
+    text-align: left;
+}
+
+.vizyon{
+    text-align: left;
+    color: yellowgreen;
+}
+
+.metin2{
+    text-align: left;
+}
+
+.misyonumuz{
+    text-align: left;
+    color: yellowgreen;
+}
+.metin3{
+    text-align: left;
+}
